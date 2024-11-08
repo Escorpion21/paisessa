@@ -1,0 +1,80 @@
+body { 
+    background-image: url(img.avif);
+overflow: hidden;
+overflow-y: auto;
+white-space: nowrap;
+}
+
+#Pais {
+  
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 2rem;
+}
+
+#contenedor {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+#busqueda {
+ 
+    text-align: center;
+    border-radius: 3rem;
+    border: double aquamarine;
+}
+
+#boton {
+    background-color: transparent;
+    border-color: blue;
+}
+
+#Bandera {
+    width: 10rem;
+    height: 6rem;
+}
+
+#texto {
+    
+   width: 100%;
+
+        border-color: blue;
+        border: solid 0.1rem;
+        display: flex;
+       
+}
+
+.unidad{
+    
+
+
+text-align: center;
+}
+#informacion {
+    border:double 1rem ;  margin-left:20rem;/* Ajusta el espacio a la izquierda */ margin-right: 20rem;
+}
+#Bandera-uno {
+    width: 20rem;
+}
+.texto {
+    text-align: center;
+    border: solid 0.1rem blue;
+    padding: 10px;
+    background-color: red;
+}
+
+.paises{ display: flex;
+    justify-content: column;
+align-content: column;
+margin: rem;
+background-color: red;
+
+}
+#muchos-paises {
+    
+   text-align: center;
+   font-size: 2rem;
+   color: white;
+   border: solid blue 0.2rem
+}
